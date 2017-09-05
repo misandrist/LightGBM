@@ -1,0 +1,1 @@
+from setuptools.config import read_configuration
