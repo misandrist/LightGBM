@@ -12,3 +12,5 @@ tags, but this can readily be overridden by your own base class in the
 check_forward_features method.
 
 """
+
+from .version import VERSION
